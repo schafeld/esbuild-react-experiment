@@ -1,0 +1,19 @@
+{
+  "name": "esbuild_react_experiment",
+  "version": "1.0.0",
+  "description": "Experimental React/Esbuild project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "esbuild",
+    "javascript"
+  ],
+  "author": "Oliver Schafeld <info@schafeld.com>",
+  "license": "MIT",
+  "dependencies": {
+    "esbuild": "^0.12.19"
+  }
+}
